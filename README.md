@@ -10,6 +10,10 @@ repository on github and deployed it as a live website within github servers.
 
 SCREENSHOT
 
+![Screenshot 2021-06-17 211048](https://user-images.githubusercontent.com/83788525/122490675-88b9be00-cfb0-11eb-8946-87ea9b7b9306.png)
+![Screenshot 2021-06-17 210953](https://user-images.githubusercontent.com/83788525/122490681-8b1c1800-cfb0-11eb-92cf-2488143062df.png)
+![Screenshot 2021-06-17 210857](https://user-images.githubusercontent.com/83788525/122490685-8c4d4500-cfb0-11eb-8cb6-bed53e0a3b1b.png)
+
 
 
 LINK
